@@ -8,8 +8,10 @@ import di.atos.exercicexpweek6day4.exercice1.Student;
 
 /**
  *
- * @author ezekielkouassi
+ * @author KONATE-MK
+ *@date 29/01/2023
  */
+
 public class ExerciceXpWeek6Day4 {
 
     public static void main(String[] args) {
@@ -20,3 +22,10 @@ public class ExerciceXpWeek6Day4 {
         // Exercice 2
     }
 }
+
+
+/**
+ *
+ * @author KONATE-MK
+ *@date 29/01/2023
+ */

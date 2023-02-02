@@ -4,10 +4,13 @@
  */
 package di.atos.exercicexpweek6day4.exercice4;
 
+
 /**
  *
- * @author ezekielkouassi
+ * @author KONATE-MK
+ *@date 29/01/2023
  */
+
 public class Area {
     
     private double length;
@@ -23,3 +26,10 @@ public class Area {
     }
     
 }
+
+
+/**
+ *
+ * @author KONATE-MK
+ *@date 29/01/2023
+ */

@@ -6,8 +6,10 @@ package di.atos.exercicexpweek6day4.exercice3;
 
 /**
  *
- * @author ezekielkouassi
+ * @author KONATE-MK
+ *@date 29/01/2023
  */
+
 public class Rectangle {
     private double width;
     private double height;
@@ -26,3 +28,10 @@ public class Rectangle {
         return this.height * this.width;
     }
 }
+
+
+/**
+ *
+ * @author KONATE-MK
+ *@date 29/01/2023
+ */

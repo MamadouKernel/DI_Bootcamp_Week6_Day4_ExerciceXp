@@ -4,10 +4,13 @@
  */
 package di.atos.exercicexpweek6day4.exercice2;
 
+
 /**
  *
- * @author ezekielkouassi
+ * @author KONATE-MK
+ *@date 29/01/2023
  */
+
 public class Triangle {
     private double firstSide;
     private double secondSide;
@@ -27,3 +30,10 @@ public class Triangle {
         System.out.println();
     }
 }
+
+
+/**
+ *
+ * @author KONATE-MK
+ *@date 29/01/2023
+ */

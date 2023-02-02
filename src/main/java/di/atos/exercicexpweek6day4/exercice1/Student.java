@@ -4,9 +4,11 @@
  */
 package di.atos.exercicexpweek6day4.exercice1;
 
+
 /**
  *
- * @author ezekielkouassi
+ * @author KONATE-MK
+ *@date 29/01/2023
  */
 public class Student {
     private String name;
@@ -21,3 +23,10 @@ public class Student {
         this.roll_no = roll_no;
     }
 }
+
+
+/**
+ *
+ * @author KONATE-MK
+ *@date 29/01/2023
+ */
